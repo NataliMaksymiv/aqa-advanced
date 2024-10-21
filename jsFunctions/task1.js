@@ -1,7 +1,7 @@
 // Function declaration
 function calculateArea(width, height) {
     return width * height;
-}
+};
 console.log("Area using function declaration:", calculateArea(5, 10));
 
 // Function expression
