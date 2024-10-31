@@ -5,9 +5,9 @@ const car1 = {
   };
   
 const car2 = {
-    brand: "Honda",
-    model: "Accord",
-    owner: 2018
+    brand: "Nissan",
+    model: "Leaf",
+    owner: 2020
   };
   
 const car3 = { ...car1, ...car2 };
