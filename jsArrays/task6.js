@@ -4,5 +4,5 @@ const sortedNumbers = [...numbersList];
 
 sortedNumbers.sort((a, b) => a - b);
 
-console.log("Original array:", numbersList);
-console.log("Sorted array:", sortedNumbers);
+console.log('Original array:', numbersList);
+console.log('Sorted array:', sortedNumbers);
