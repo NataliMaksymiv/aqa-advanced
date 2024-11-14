@@ -4,3 +4,5 @@
 /playwright/.cache/
 playwright.config.ts
 tests/
+eslint.config.js
+.prettierrc
